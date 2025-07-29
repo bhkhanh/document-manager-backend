@@ -3,3 +3,6 @@
 **db.sqlite3
 **requirements.local.txt
 **migrations
+**dump-data.json
+.DS_Store
+.vscode/
